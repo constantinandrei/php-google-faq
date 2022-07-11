@@ -11,3 +11,8 @@ nav h3 {
     display: inline-block;
     font-weight: normal;
 }
+
+h3, h4 {
+    padding-top: 4rem;
+    margin-bottom: 2rem;
+}
