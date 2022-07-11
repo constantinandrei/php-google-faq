@@ -1,0 +1,13 @@
+.logo-container {
+    display: inline-block;
+    width: 120px;
+}
+
+img {
+    width: 100%;
+}
+
+nav h3 {
+    display: inline-block;
+    font-weight: normal;
+}
